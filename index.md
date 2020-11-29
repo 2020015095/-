@@ -15,6 +15,10 @@ Syntax highlighted code block
 #### 姓名  
 #### 学校 
 #### 学历
+#### 专业
+#### 班级
+#### 邮箱
+#### 地址
 - Bulleted
 - List
 
