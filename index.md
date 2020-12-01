@@ -11,7 +11,7 @@
       <p><b>地址：浙江省宁波市鄞州区盛莫路1519号</b></p>
     </td>，
     <td width="25%">
-      <img src="/zhengjianzhao.jpeg" width="100%">      % 插入证件照代码
+      <img src="/mmexport2b1710a9821f0bb5cca2f4e744db8b88(1).jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
